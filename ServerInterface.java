@@ -1,4 +1,3 @@
-//name: rithin surya sainadh gadapa 1001565680
 import java.io.IOException;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
